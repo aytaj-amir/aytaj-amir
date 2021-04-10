@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aytaj-amir
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ReactJS,PHP,SQL,C#
+-🌱 I’m currently learning ReactJS,PHP,SQL,C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me aytac.amirova1@gmail.com
 
